@@ -1,5 +1,5 @@
 # Hello and Welcome!
-I'm _qkuldo_, an aspiring game developer, currently working on my video game [Bumpgun](https://github.com/qkuldo/bumpgun).
+I'm _qkuldo_, a programmer. I am working on a game, but it's not here.
 ## Tools and Tech I use:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
